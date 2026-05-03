@@ -1,0 +1,57 @@
+<!-- index.html --><!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lethe Enxovais</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body><header>
+  <h1>Lethe Enxovais</h1>
+  <nav>
+    <a href="#kits">Kits Berço</a>
+    <a href="#saida">Saída Maternidade</a>
+    <a href="#mantas">Mantas</a>
+    <a href="#personalizados">Personalizados</a>
+  </nav>
+</header><section class="banner">
+  <h2>Enxovais delicados para seu bebê 💛</h2>
+</section><section id="kits" class="produtos">
+  <h2>Kits Berço</h2>
+  <div class="grid">
+    <a href="#" target="_blank" class="card">
+      <img src="https://via.placeholder.com/300" alt="Kit Berço">
+      <p>Kit Berço Completo</p>
+    </a>
+  </div>
+</section><section id="saida" class="produtos">
+  <h2>Saída Maternidade</h2>
+  <div class="grid">
+    <a href="#" target="_blank" class="card">
+      <img src="https://via.placeholder.com/300" alt="Saída">
+      <p>Saída Maternidade</p>
+    </a>
+  </div>
+</section><section id="mantas" class="produtos">
+  <h2>Mantas</h2>
+  <div class="grid">
+    <a href="#" target="_blank" class="card">
+      <img src="https://via.placeholder.com/300" alt="Manta">
+      <p>Manta Infantil</p>
+    </a>
+  </div>
+</section><section id="personalizados" class="produtos">
+  <h2>Personalizados</h2>
+  <div class="grid">
+    <a href="#" target="_blank" class="card">
+      <img src="https://via.placeholder.com/300" alt="Personalizado">
+      <p>Item Personalizado</p>
+    </a>
+  </div>
+</section><section class="contato">
+  <h2>Fale Conosco</h2>
+  <a href="https://wa.me/SEUNUMERO" class="btn whatsapp">WhatsApp</a>
+  <a href="https://instagram.com/lethenxovais" class="btn instagram">Instagram</a>
+</section><footer>
+  <p>© 2026 Lethe Enxovais</p>
+</footer></body>
+</html>
